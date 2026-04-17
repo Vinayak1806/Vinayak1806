@@ -40,26 +40,34 @@
 <td width="50%">
 
 ### 🏫 Education
-**🎓 B.E. Computer Engineering**
+**🎓 B.E. Computer Engineering**  
 *Currently Pursuing — Sinhgad Academy of Engineering*
 
+**🎓 Diploma in Computer Engineering**  
+*Completed — MSBTE*  
+
 Relevant coursework:
-- Data Structures & Algorithms
-- Database Management Systems
-- Machine Learning
-- Web Technologies
+- Data Structures & Algorithms  
+- Database Management Systems  
+- Web Technologies  
 
 </td>
 <td width="50%">
 
 ### 💼 Experience
-**📊 Data Analytics Intern**
-🏢 Codec Technologies
+**📊 Data Analytics Intern**  
+🏢 Codec Technologies 
 
-**🖥️ Industrial Training**
-🏢 Excellent Software Services
+**🖥️ Industrial Training**  
+🏢 Excellent Software Services  
 
-*Hands-on experience in data pipelines, dashboard building, and web development workflows*
+**💡 Project Work Experience**
+- Worked on multiple academic and real-world projects in web development and data analytics  
+- Built full-stack applications using React, Node.js, and APIs  
+- Developed dashboards and data visualization systems  
+- Implemented data processing workflows in projects  
+
+*Hands-on experience in data pipelines, dashboard building, and full-stack development workflows*
 
 </td>
 </tr>
