@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinayak%20Pawate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-pawate/)
 [![Gmail](https://img.shields.io/badge/Gmail-vinayakpawate-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayakpawate@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Vinayak1806-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinayak1806)
+[![Profile Views](https://komarev.com/ghpvc/?username=Vinayak1806&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/Vinayak1806)
 
 </div>
 
@@ -40,7 +41,7 @@
 
 ### 🏫 Education
 **🎓 B.E. Computer Engineering**
-*Currently Pursuing*
+*Currently Pursuing — Sinhgad Academy of Engineering*
 
 Relevant coursework:
 - Data Structures & Algorithms
@@ -58,7 +59,7 @@ Relevant coursework:
 **🖥️ Industrial Training**
 🏢 Excellent Software Services
 
-*Gained hands-on experience in data pipelines, dashboard building, and web development workflows*
+*Hands-on experience in data pipelines, dashboard building, and web development workflows*
 
 </td>
 </tr>
@@ -66,16 +67,14 @@ Relevant coursework:
 
 ---
 
-## 🏅 Certifications & Achievements
+## 🏅 Certifications
 
-| Certificate | Issuer | Topic |
-|:------------|:-------|:------|
-| 🐍 Python for Data Science | *Add issuer* | Python · Pandas · NumPy |
-| 📊 Power BI Fundamentals | *Add issuer* | Data Visualization |
-| 🌐 Web Development | *Add issuer* | HTML · CSS · JavaScript |
-| 🤖 Machine Learning | *Add issuer* | Scikit-learn · ML Models |
-
-> 📌 *Update with your actual certifications — Coursera, Google, Microsoft, Kaggle, etc.*
+| Certificate | Topic |
+|:------------|:------|
+| 🐍 Python for Data Science | Python · Pandas · NumPy |
+| 📊 Power BI Fundamentals | Data Visualization |
+| 🌐 Web Development | HTML · CSS · JavaScript . React js |
+| 🤖 Machine Learning | Scikit-learn · ML Models |
 
 ---
 
@@ -111,49 +110,49 @@ Relevant coursework:
 
 ---
 
+## 📌 Featured Projects
+
+| Project | Description | Stack | Repo |
+|:--------|:------------|:------|:-----|
+| 📊 Instagram Engagement Dashboard | Analyzes engagement across 200 channels to surface top-performing content strategies | Python · Power BI | [View →](https://github.com/Vinayak1806/Social-Media-Engagement-Dashboard) |
+| 👥 Employee Attrition Analysis | Predicts employee resignation risk using IBM HR data and classification models | Python · Scikit-learn · Power BI | [View →](https://github.com/Vinayak1806/Employee-Attrition-Analysis) |
+| 🔬 Heart Disease Analysis | Analyzes 1,000+ patient records to identify cardiac risk patterns | Python · Pandas · Seaborn | [View →](https://github.com/Vinayak1806/Exploring-Heart-Diseases-Data-Analysis-Summary) |
+| 🤖 AI Debate Platform | A full-stack AI-powered debate platform where users engage in structured real-time debates with Google Gemini 2.5 Flash. It evaluates responses, tracks progress, and helps users improve critical thinking and argumentation skills over time | React · Node.js · Express · Gemini API · Vercel | [Live Demo →](https://arguai-mocha.vercel.app/login) · [View Project →](https://github.com/Vinayak1806/your-repo-name) |
+
+---
+
 ## 📊 GitHub Stats
 
+> ⚠️ Stats may show errors if the GitHub API is rate-limited. They auto-recover — just refresh after a few minutes.
+
 <div align="center">
 
-![Vinayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinayak1806&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<!-- GitHub Stats — using include_all_commits=false fixes the "could not fetch" error -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vinayak1806&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github&hide=contribs" alt="Vinayak's GitHub Stats"/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Vinayak1806&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak1806&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=jupyter%20notebook,java" alt="Top Languages"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak1806&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
+<div align="center">
+
+<!-- Streak stats — using DIO-stats which is more reliable than streak-stats -->
+<img width="60%" src="https://streak-stats.demolab.com?user=Vinayak1806&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Activity
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Vinayak1806&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
+<!-- Snake animation — requires GitHub Action setup (see instructions below) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinayak1806/Vinayak1806/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinayak1806/Vinayak1806/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Vinayak1806/Vinayak1806/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Vinayak1806/Vinayak1806/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinayak1806/Vinayak1806/output/github-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Vinayak1806/Vinayak1806/output/github-snake.svg"/>
 </picture>
-
-</div>
-
----
-
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
