@@ -104,10 +104,19 @@ Relevant coursework:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### ☁️ Deployment, APIs & Monitoring
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 
 ### ⚙️ Languages & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -120,12 +129,31 @@ Relevant coursework:
 
 ## 📌 Featured Projects
 
+### 🎓 Admission Compass — Maharashtra FE & DSE College Predictor
+A data-first web application for exploring official **MHT-CET (First-Year)** and **Direct Second-Year (DSE)** CAP cutoffs, calculating admission probabilities, comparing engineering colleges side-by-side, and generating validated CAP preference lists — built on a real end-to-end data analytics pipeline, not synthetic or hardcoded data.
+
+- **Stack:** Next.js · Prisma · PostgreSQL · Python (pdfplumber, pandas) ETL pipeline · Sentry monitoring
+- 🔗 **Live:** [admission-compass.onrender.com](https://admission-compass.onrender.com/)
+
+### 🏠 Hostel Hub — Smart Hostel Management System
+A full-stack MERN web application to digitize and streamline hostel administration for students and administrators.
+
+- **Stack:** MongoDB · Express.js · React · Node.js
+- 🔗 **Live:** [hostelhub-xi.vercel.app](https://hostelhub-xi.vercel.app/)
+
+### 🤖 AI Debate Platform (ArguAI) — Challenge Your Thinking, Sharpen Your Arguments
+A full-stack web application where users engage in structured, real-time debates against **Google's Gemini 2.5 Flash** model across 600+ topics. Built for thinkers who want to stress-test their ideas — it tracks performance, rewards growth, and levels up argumentation skills with every session.
+
+- **Stack:** Python 3.8+ · Flask 2.x · MySQL 8.0+ · Gemini 2.5 Flash API · deployed on Vercel
+- 🔗 **Live:** [arguai-mocha.vercel.app/login](https://arguai-mocha.vercel.app/login)
+
+### 📊 More Projects
+
 | Project | Description | Stack | Repo |
 |:--------|:------------|:------|:-----|
 | 📊 Instagram Engagement Dashboard | Analyzes engagement across 200 channels to surface top-performing content strategies | Python · Power BI | [View →](https://github.com/Vinayak1806/Social-Media-Engagement-Dashboard) |
 | 👥 Employee Attrition Analysis | Predicts employee resignation risk using IBM HR data and classification models | Python · Scikit-learn · Power BI | [View →](https://github.com/Vinayak1806/Employee-Attrition-Analysis) |
 | 🔬 Heart Disease Analysis | Analyzes 1,000+ patient records to identify cardiac risk patterns | Python · Pandas · Seaborn | [View →](https://github.com/Vinayak1806/Exploring-Heart-Diseases-Data-Analysis-Summary) |
-| 🤖 AI Debate Platform | A full-stack AI-powered debate platform where users engage in structured real-time debates with Google Gemini 2.5 Flash. It evaluates responses, tracks progress, and helps users improve critical thinking and argumentation skills over time | React · Node.js · Express · Gemini API · Vercel | [Live Demo →](https://arguai-mocha.vercel.app/login) · [View Project →](https://github.com/Vinayak1806/your-repo-name) |
 
 ---
 
