@@ -198,6 +198,6 @@ A full-stack web application where users engage in structured, real-time debates
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-*"Turning data into decisions, one project at a time."*
+*"Turning data into decisions, one project at a time.."*
 
 </div>
