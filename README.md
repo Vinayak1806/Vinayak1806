@@ -159,20 +159,18 @@ A full-stack web application where users engage in structured, real-time debates
 
 ## 📊 GitHub Stats
 
-> ⚠️ Stats may show errors if the GitHub API is rate-limited. They auto-recover — just refresh after a few minutes.
+> ⚠️ Stats may show errors if the GitHub API is rate-limited. They auto-recover, so just refresh after a few minutes.
 
 <div align="center">
 
-<!-- GitHub Stats — using include_all_commits=false fixes the "could not fetch" error -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vinayak1806&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github&hide=contribs" alt="Vinayak's GitHub Stats"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=Vinayak1806&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github&hide=issues&show=reviews,prs_merged&cache_seconds=1800" alt="Vinayak's GitHub Stats"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak1806&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=jupyter%20notebook,java" alt="Top Languages"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak1806&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=jupyter%20notebook,java&cache_seconds=1800" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<!-- Streak stats — using DIO-stats which is more reliable than streak-stats -->
 <img width="60%" src="https://streak-stats.demolab.com?user=Vinayak1806&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 
 </div>
